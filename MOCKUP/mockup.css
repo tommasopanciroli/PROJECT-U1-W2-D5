@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', 'Helvetica', sans-serif;
+}
+
+#backgroundlogo {
+  background-color: #222f3f;
+}
+
+#logo {
+  width: 10%;
+  padding-left: 1.5em;
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
+}
+
+#navbackground {
+  background-color: #364758;
+}
+
+.nav{
+    display: inline-block;
+    margin-right: 10px;
+    padding-left: 1em;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    font-size: 0.8rem;
+    color: white;
+}
