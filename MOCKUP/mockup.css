@@ -91,6 +91,7 @@ body {
   margin-right: 2em;
   height: 450px;
   border-radius: 5%;
+  box-shadow: 12px 6px 18px 5px rgba(0, 0, 0, 0.23);
 }
 
 #laptop {
@@ -98,6 +99,7 @@ body {
   margin-right: 2em;
   height: 450px;
   border-radius: 5%;
+  box-shadow: 12px 6px 18px 5px rgba(0, 0, 0, 0.23);
 }
 
 #smartwatch {
@@ -105,6 +107,7 @@ body {
   margin-right: 2em;
   height: 450px;
   border-radius: 5%;
+  box-shadow: 12px 6px 18px 5px rgba(0, 0, 0, 0.23);
 }
 
 #animals {
@@ -112,6 +115,7 @@ body {
   margin-right: 2em;
   height: 450px;
   border-radius: 5%;
+  box-shadow: 12px 6px 18px 5px rgba(0, 0, 0, 0.23);
 }
 
 #inlineimg {
@@ -175,4 +179,29 @@ section {
 
 .inlineparagraph2 {
   display: inline;
+}
+
+#backgroundanchor {
+  background-color: #364759;
+  text-align: center;
+  color: white;
+}
+
+#almostfooter {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+footer {
+  background-color: #222f3f;
+  text-align: center;
+}
+
+footer > div {
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
+
+footer > div > img {
+  width: 10%;
 }
