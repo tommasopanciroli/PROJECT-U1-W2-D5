@@ -1,6 +1,6 @@
 body {
   font-family: 'Arial', 'Helvetica', sans-serif;
-  background-color: #E9EDEE;
+  background-color: #e9edee;
   max-width: auto;
   max-height: auto;
 }
@@ -66,77 +66,113 @@ body {
   font-weight: bold;
 }
 
-#whitebackground{
-    background-color: white;
-    margin-left: 1.5em;
-    margin-right: 1.5em;
-    margin-top: 1.5em;
-    margin-bottom: 1.5em;
+#whitebackground {
+  background-color: white;
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
 }
 
-.inline{
-    display: inline;
+.inline {
+  display: inline;
 }
 
 #colored {
-    color: #1C596C;
-    margin-left: 1em;
-    font-weight: bold;
-    font-size: 0.8em;
+  color: #1c596c;
+  margin-left: 1em;
+  font-weight: bold;
+  font-size: 0.8em;
 }
 
 #kindle {
-    width: 22%;
-    margin-left: 2em;
-    margin-right: 2em;
-    height: 450px;
-    border-radius: 5%;
-
+  width: 22%;
+  margin-left: 2em;
+  margin-right: 2em;
+  height: 450px;
+  border-radius: 5%;
 }
 
 #laptop {
-    width: 22%;
-    margin-right: 2em;
-    height: 450px;
-    border-radius: 5%;
+  width: 22%;
+  margin-right: 2em;
+  height: 450px;
+  border-radius: 5%;
 }
 
 #smartwatch {
-    width: 22%;
-    margin-right: 2em;
-    height: 450px;
-    border-radius: 5%;
+  width: 22%;
+  margin-right: 2em;
+  height: 450px;
+  border-radius: 5%;
 }
 
 #animals {
-    width: 22%;
-    margin-right: 2em;
-    height: 450px;
-    border-radius: 5%;
+  width: 22%;
+  margin-right: 2em;
+  height: 450px;
+  border-radius: 5%;
 }
 
 #inlineimg {
-    text-align: center;
-    padding-bottom: 2em;
+  text-align: center;
+  padding-bottom: 2em;
 }
 
 section {
-    border: solid white 1px;
+  border: solid white 1px;
 }
 
 .in {
-    display: inline;
+  display: inline;
 }
 
 #padding {
-    padding-bottom: 1em;
-    margin-left: 1em;
-    margin-top: 0.8em;
+  padding-bottom: 1em;
+  margin-left: 1em;
+  margin-top: 0.8em;
 }
 
 #bigimage {
-    width: 100%;
-    margin-left: 1.5em;
-    margin-right: 1.5em;
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+  text-align: center;
+  padding-bottom: 1.5em;
+}
 
+#bigimage > img {
+  width: 100%;
+}
+
+.inlineparagraph {
+  display: inline;
+}
+
+#shopgaming {
+  color: #1c596c;
+  font-weight: bold;
+  font-size: 0.8em;
+  margin-left: 1em;
+}
+
+#bigimage2 {
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+  text-align: center;
+  padding-bottom: 1.5em;
+}
+
+#bigimage2 > img {
+  width: 100%;
+}
+
+#audio {
+  color: #1c596c;
+  font-weight: bold;
+  font-size: 0.8em;
+  margin-left: 1em;
+}
+
+.inlineparagraph2 {
+  display: inline;
 }
